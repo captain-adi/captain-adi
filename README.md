@@ -30,7 +30,7 @@ Here’s what powers my projects:
 
 ## 🌟 **Featured Projects**
 
-### 🛍️ [Myntra Clone](https://mintra-app.netlify.app/))
+### 🛍️ [Myntra Clone](https://mintra-app.netlify.app/)
 A fully functional e-commerce platform inspired by Myntra:  
 - **Features**: Add to Cart, Remove from Cart, Dynamic Product Display  
 - **Built With**: React, Redux Toolkit, Tailwind CSS  
