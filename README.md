@@ -38,7 +38,7 @@ A fully functional e-commerce platform inspired by Myntra:
 
 ---
 
-### ✅ [Todo App](https://github.com/Aditya/todo-app)  
+### ✅ [Todo App](https://weather-app-two-pi-83.vercel.app/)  
 Stay productive with this task management app:  
 - **Features**: Add, Edit, and Delete Tasks  
 - **Built With**: React, Redux Toolkit  
