@@ -38,15 +38,8 @@ A fully functional e-commerce platform inspired by Myntra:
 
 ---
 
-### ✅ [Todo App](https://weather-app-two-pi-83.vercel.app/)  
-Stay productive with this task management app:  
-- **Features**: Add, Edit, and Delete Tasks  
-- **Built With**: React, Redux Toolkit  
-- **Highlights**: Minimalist design and intuitive user experience  
 
----
-
-### ☁️ [Weather App](https://github.com/Aditya/weather-app)  
+### ☁️ [Weather App](https://weather-app-two-pi-83.vercel.app/)  
 A sleek weather tracker to stay updated:  
 - **Features**: Real-time weather by city search, smooth loader effects  
 - **Built With**: React, Tailwind CSS  
