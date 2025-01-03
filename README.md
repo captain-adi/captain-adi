@@ -72,9 +72,9 @@ I’m working on combining my **frontend** and **backend** knowledge to develop 
 
 Let’s build something amazing together!  
 
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **Portfolio**: [Your Portfolio](https://yourportfolio.com)  
+- **Email**: [YourEmail@example.com](adipandey830@gmail.com)  
+- **LinkedIn**: [Your LinkedIn Profile] 
+- **Portfolio**: [Your Portfolio](https://adityapandey1.netlify.app/)  
 
 ---
 
